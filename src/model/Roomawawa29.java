@@ -1,5 +1,5 @@
 package src.model;
 
-public class Room {
+public class Roomawawa29 {
     
 }
